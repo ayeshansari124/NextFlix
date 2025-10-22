@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎬 Netflix Clone – Next.js + Tailwind
 
-## Getting Started
+A **frontend clone** of the official **Netflix Web Platform**, rebuilt with **Next.js** and **Tailwind CSS**.  
+This project replicates the modern Netflix UI with a **component-driven architecture**, responsive layouts, and smooth scrolling sections.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📌 Summary
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This is a **Next.js + Tailwind frontend project** inspired by Netflix.  
+It demonstrates:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Component-based architecture** in Next.js  
+- **Utility-first styling** with Tailwind CSS  
+- **Responsive and mobile-first UI design**  
+- **Section-based layout** (Trending, Top Picks, Originals, Footer)  
+- **Sticky headers and scrollable content areas**  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 💻 Features
 
-To learn more about Next.js, take a look at the following resources:
+✅ **Sticky Navbar** with search, profile dropdown, and login buttons  
+✅ **Dynamic Hero Section** with featured content  
+✅ **Horizontal scroll sections** for trending movies, top picks, and originals  
+✅ Smooth **grid layouts** for movie thumbnails  
+✅ **Hidden scrollbars** and responsive breakpoints for all devices  
+✅ Optimized **image handling** for faster loading with Next.js `Image` component  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+- **Next.js** – Server-side rendering (SSR) + React framework  
+- **Tailwind CSS** – Styling and responsive design  
+- **JavaScript (ES6+)** – Frontend interactivity  
+- **Vercel** – Deployment  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Deployment
+
+🔗 [Live Site on Vercel](https://ayeshaas-nc.netlify.app/)  
+
+*(Replace the above URL with your actual deployed site link)*
+
+---
+
+## 🧩 Upcoming Features
+
+- 🎥 **Dynamic movie data** via API integration (TMDB or custom backend)  
+- 💬 **Interactive hover effects** and movie trailers  
+- ❤️ **Like & watchlist functionality** with local storage / backend  
+- 🌙 **Light / Dark mode toggle**  
+- 🛠 Convert to **full-stack MERN app** with authentication and personalized recommendations  
+
+---
+
+## 📝 License
+
+This project is for **educational/demo purposes only**.  
+No commercial use intended. Netflix™ is a registered trademark of Netflix, Inc.
+
+---
+
+Built with ❤️ by **Ayesha Ali** while learning Next.js and Tailwind CSS.
