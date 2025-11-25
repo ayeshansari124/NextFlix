@@ -42,8 +42,6 @@ It demonstrates:
 
 🔗 [Live Site on Netlify](https://ayeshaas-nc.netlify.app/)  
 
-*(Replace the above URL with your actual deployed site link)*
-
 ---
 
 ## 🧩 Upcoming Features
