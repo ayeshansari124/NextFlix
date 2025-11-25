@@ -3,7 +3,7 @@ import "./globals.css";
 export const metadata = {
   title: "Netflix India – Watch TV Shows Online, Watch Movies Online",
   icons: {
-    icon: "images/favicon.ico", 
+    icon: "/images/favicon.ico",
   },
 };
 

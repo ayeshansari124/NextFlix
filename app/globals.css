@@ -2,18 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body {
+/* Global Styles */
+html,
+body {
   margin: 0;
   padding: 0;
   height: 100%;
-  background-color: black;
+  background: black;
   color: white;
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+  background-image: url('/images/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
+/* Hide scrollbar for aesthetic horizontal sections */
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
 .scrollbar-hide {
-  -ms-overflow-style: none; 
-  scrollbar-width: none;    
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
