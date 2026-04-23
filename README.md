@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone – Next.js + Tailwind
+# 🎬 NextFlix – Next.js + Tailwind
 
 A **frontend clone** of the official **Netflix Web Platform**, rebuilt with **Next.js** and **Tailwind CSS**.  
 This project replicates the modern Netflix UI with a **component-driven architecture**, responsive layouts, and smooth scrolling sections.
